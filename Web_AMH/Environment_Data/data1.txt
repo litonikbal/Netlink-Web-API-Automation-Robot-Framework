@@ -1,0 +1,5 @@
+--variable  BROWSER:chrome
+--variable  URL:https://amh-1.netlink-testlabs.com:8443/amhweb/#
+--variable  VALID USER:cc-user
+--variable  VALID PASSWORD:Feb2021+amh1amh2
+--variable  TEMPLATE_NAME:MT_199_AMH_TO_SAA_AKURA_SU3_JJJ

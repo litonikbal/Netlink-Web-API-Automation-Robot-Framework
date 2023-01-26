@@ -1,0 +1,5 @@
+{1:F01PTSQGBB0XAAA0000000000}{2:I199PTSQGBB0XDDDN2}{3:{108:stpsu13}}{4:
+:20:ROBOTSTPFLOW
+:79:AMH Test Message
+look in incoming messages
+-}
