@@ -3,7 +3,7 @@
 # Project Title* -  Netlink-Web-API-Automation-Robot-Framework
 # Project Domain* - Banking and Payments
 
-# Project Description -SWIFT messgae processing (FIN -MT1**,2**,FINplus-PACS and PAIN,Trade finance message MT9**) from bank backed system(Core banking/Feeder system) to SAA (Swift Allince) and Allince Message Hub(AMH) ,SWIFT GPI via Netlink Infra (MQ connect, REST API or SFTP).Basically Netlink is a Message routing system. MTLAU and MXMLU and AGI message creation via Netlink tool and processing via MQ queues. Managaing Clinets multiple SWIFT  Testbed infra daily and run the sanity test via automation.
+Project Description - SWIFT messgae processing (FIN -MT1**,2**,FINplus-PACS and PAIN,Trade finance message MT9**) from bank backed system(Core banking/Feeder system) to SAA (Swift Allince) and Allince Message Hub(AMH) ,SWIFT GPI via Netlink Infra (MQ connect, REST API or SFTP).Basically Netlink is a Message routing system. MTLAU and MXMLU and AGI message creation via Netlink tool and processing via MQ queues. Managaing Clinets multiple SWIFT  Testbed infra daily and run the sanity test via automation.
 
 Automation
 ============
